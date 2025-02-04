@@ -9,21 +9,21 @@ This repository contains the projects created as part of **freeCodeCamp's** cert
 [![Used Technologies](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,sass,react,redux)](https://skillicons.dev)
 
 ## Certifications:
-### Responsive Web Design <small><em>(complete)</em></small>
+### Responsive Web Design *(complete)*
 Projects:
 1. Survey Form
 2. Tribute Page
 3. Technical Documentation Page
 4. Product Landing Page
 5. Personal Portfolio Website
-### JavaScript Algorithms and Data Structures <small><em>(in progress)</em></small>
+### JavaScript Algorithms and Data Structures *(in progress)*
 Projects: 
 1. Palindrome Checker
 2. Roman Numeral Converter
 3. Telephone Number Validator
 4. Cash Register
 5. Pokémon Seach App
-### Front End Development Libraries <small><em>(in progress)</em></small>
+### Front End Development Libraries *(in progress)*
 Projects:
 1. Random Quote Machine
 2. Markdown Previewer
