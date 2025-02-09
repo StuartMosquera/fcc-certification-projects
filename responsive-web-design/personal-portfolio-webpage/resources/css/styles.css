@@ -6,15 +6,6 @@
   scroll-behavior: smooth;
 }
 
-/* GLOBAL VARIABLES */
-:root {
-  --background-footer: #384454;
-  --background-header: linear-gradient(to right, #4d4d4d, #2c2c2c, #1e1e1e);
-  --background-navbar: linear-gradient(to right, #bd2035, #7e1d2a);
-  --background-projects: #3a5083;
-  --foreground-color: #fff;
-}
-
 /* FONTS */
 @font-face {
   font-family: "Poppins";
@@ -35,6 +26,15 @@
   font-style: italic;
   font-weight: 200;
   src: url("../fonts/Poppins-ExtraLightItalic.ttf") format("truetype");
+}
+
+/* GLOBAL VARIABLES */
+:root {
+  --background-footer: #384454;
+  --background-header: linear-gradient(to right, #4d4d4d, #2c2c2c, #1e1e1e);
+  --background-navbar: linear-gradient(to right, #bd2035, #7e1d2a);
+  --background-projects: #3a5083;
+  --foreground-color: #fff;
 }
 
 /* GLOBAL STYLES */
